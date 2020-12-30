@@ -1,3 +1,3 @@
-This Repo has alot of projects related to SVM
+This Repo has projects related to SVM
 =============================================
 
