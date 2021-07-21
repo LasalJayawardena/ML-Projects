@@ -10,3 +10,4 @@ This Repo has projects related to SVM
 6. Covid19_Time_Series
 7. Avocado_Price_Time_Series
 8. Iris_Classifier
+9. Palmer_Penguins_Classifier
