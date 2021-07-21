@@ -8,3 +8,4 @@ This Repo has projects related to SVM
 4. Capital_assest_pricing
 5. XG_Boost_Car_Price_Prediction
 6. Covid19_Time_Series
+7. Avocado_Price_Time_Series
