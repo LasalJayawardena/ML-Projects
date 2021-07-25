@@ -11,3 +11,4 @@ This Repo has projects related to SVM
 7. Avocado_Price_Time_Series
 8. Iris_Classifier
 9. Palmer_Penguins_Classifier
+10. Decision_Trees_Employee_Salaries
