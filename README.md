@@ -1,6 +1,8 @@
 This Repo has projects related to SVM
 =============================================
 
+## Technologies
+
 ### Projects:
 1. SVM_Medical_Diagnosis
 2. SVM_ScikitLearn_Face_Recognition
