@@ -3,6 +3,10 @@ This Repo has projects related to SVM
 
 ## Technologies
 
+<div style="display:flex; margin: auto;">
+ 
+</div>
+
 ### Projects:
 1. SVM_Medical_Diagnosis
 2. SVM_ScikitLearn_Face_Recognition
