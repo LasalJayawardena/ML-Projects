@@ -24,3 +24,4 @@ This Repo has projects related to SVM
 9. Palmer_Penguins_Classifier
 10. Decision_Trees_Employee_Salaries
 11. Decision_Trees_Employee_Turnover
+12. Quora_Detecting_Duplicate_Questions
