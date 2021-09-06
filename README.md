@@ -26,3 +26,4 @@ This Repo has projects related to SVM
 11. Decision_Trees_Employee_Turnover
 12. Quora_Detecting_Duplicate_Questions
 13. Airbnb_NYC_Price_Prediction
+14. FreCog_Face_Detector_App
