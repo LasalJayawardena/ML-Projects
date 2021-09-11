@@ -29,3 +29,4 @@ This Repo has projects related to SVM
 14. FreCog_Face_Detector_App
 15. Muffin_vs_Cupcake_Classifier
 16. Online_Retail_Recommender_System
+17. Synthetic_Stock_Price_Prediction
