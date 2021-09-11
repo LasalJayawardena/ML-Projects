@@ -1,4 +1,4 @@
-This Repo has projects related to SVM
+Machine Learning Projects
 =============================================
 
 ## Technologies
