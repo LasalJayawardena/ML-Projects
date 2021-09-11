@@ -30,3 +30,4 @@ This Repo has projects related to SVM
 15. Muffin_vs_Cupcake_Classifier
 16. Online_Retail_Recommender_System
 17. Synthetic_Stock_Price_Prediction
+18. Udemy_Courses_Recomender_App
