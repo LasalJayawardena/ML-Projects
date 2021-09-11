@@ -31,3 +31,4 @@ This Repo has projects related to SVM
 16. Online_Retail_Recommender_System
 17. Synthetic_Stock_Price_Prediction
 18. Udemy_Courses_Recomender_App
+19. XG_Boost_Car_Price_Prediction
