@@ -28,3 +28,4 @@ This Repo has projects related to SVM
 13. Airbnb_NYC_Price_Prediction
 14. FreCog_Face_Detector_App
 15. Muffin_vs_Cupcake_Classifier
+16. Online_Retail_Recommender_System
