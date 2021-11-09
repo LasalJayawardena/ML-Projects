@@ -32,3 +32,4 @@ Machine Learning Projects
 17. Synthetic_Stock_Price_Prediction
 18. Udemy_Courses_Recomender_App
 19. XG_Boost_Car_Price_Prediction
+20. Cervical_Cancer_Prediction
