@@ -33,3 +33,4 @@ Machine Learning Projects
 18. Udemy_Courses_Recomender_App
 19. XG_Boost_Car_Price_Prediction
 20. Cervical_Cancer_Prediction
+21. US_Car_Accident_Severity_Prediction
