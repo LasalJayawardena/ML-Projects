@@ -11,6 +11,16 @@ Machine Learning Projects
  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">  
  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> 
 </div>
+<!-- 
+<br>
+<br>
+
+### Projects
+
+| Project Name | Description |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | -->
 
 ### Projects:
 1. SVM_Medical_Diagnosis
