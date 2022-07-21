@@ -12,7 +12,7 @@ Machine Learning Projects
  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"> 
 </div>
 
-### Projects:
+### Projects
 1. SVM_Medical_Diagnosis
 2. SVM_ScikitLearn_Face_Recognition
 3. SVM_Stroke_Prediction
